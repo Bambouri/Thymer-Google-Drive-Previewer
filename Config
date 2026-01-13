@@ -1,0 +1,5 @@
+{
+    "name": "Drive Previewer",
+    "icon": "ti-brand-google-drive",
+    "description": "Inline previewer for Google Drive links (audio, video, PDFs, docs, sheets)"
+}
